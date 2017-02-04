@@ -1,0 +1,10 @@
+article {
+	display: inline-block;
+	width: 30%;
+	border: 1px solid lightblue;
+	margin: auto;
+}
+img {
+	max-width: 100%;
+
+}
